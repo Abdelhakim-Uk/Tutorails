@@ -1,0 +1,4 @@
+Array = [12, 3, 5, 23]
+
+print('Sort Array using sorted function: ', sorted(Array))
+   
